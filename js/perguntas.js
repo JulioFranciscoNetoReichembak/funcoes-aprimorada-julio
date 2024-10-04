@@ -6,15 +6,17 @@ export const perguntas = [
                 texto: "Sim, pois ela vai tomar decisões na base de razões e dados",
                 afirmacao: [
                     "Você é uma pessoa que acredita na tecnologia e num futuro próspero com a IA",
-                    "afirmacao 2"
+                    "afirmacao 2",
                     "afirmacao 3"
+                ]
             },
             {
                 texto: " Não, só um ser humano sabe da total situação da empresa e como lidar com ela ",
-                afirmacao: 
+                afirmacao: [
                     " Você é uma pessoa que prefere os metódos tradicionais e acredita que precisa pensar no emocional dos clientes e não vê-los apenas como números",
-                    "afirmacao 2"
+                    "afirmacao 2",
                     "afirmacao 3"
+                ]
             }
         ]
     },
